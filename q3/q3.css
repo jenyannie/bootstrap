@@ -1,0 +1,37 @@
+body{
+	padding-left: 500px;
+}
+h4{
+	font-weight: lighter;
+
+}
+.card-body{
+	font-size: small;
+}
+a,span{
+	font-size:12px;
+}
+img{
+	width: 100px;
+	height: 100px;
+	padding: 15px;
+	margin-left: 90px;
+}
+
+input{
+	width: 250px; 
+	border-radius: 5px; 
+	align-items: left;
+	border: 1px solid #cfe2f3;
+	height: 30px;
+}
+
+.button{
+	background-color:green; 
+	color: white;
+	border: none;
+	border-radius: 5px;
+	width: 250px;
+	height: 30px;
+
+}
